@@ -4,9 +4,10 @@
 A Simple Ruby Program to Generate Calm Guest Pass for 30-days Subscription,
 The Given Program is Used Only for Educational & Testing Purposes,
 Developer(s) will not be responsible for any misuse of the program. 
+Generate 200-1000 codes for better results.
 
 
-
+![Example](https://github.com/saharshpand3y/Calm-Gift-Gen/blob/main/example.jpg)
 
 
 ## Run Locally

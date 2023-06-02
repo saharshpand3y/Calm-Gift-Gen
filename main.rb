@@ -11,10 +11,10 @@ puts "
 ██║░░██╗██╔══██║██║░░░░░██║╚██╔╝██║
 ╚█████╔╝██║░░██║███████╗██║░╚═╝░██║
 ░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░░░░╚═╝
-Welcome To calm guest 30days code gen.
+".cyan
+puts "Welcome To calm guest 30days code gen.
 
 "
-
 def gen
   m = (0...6).map { ('a'..'z').to_a[rand(26)] }.join
   head = {
@@ -41,7 +41,7 @@ def main(amount)
   amount.times do
     begin
       gen
-      sleep(0.3) # disable this line if you dont wanna deley chks
+      sleep(0.3)
     rescue
     end
   end
