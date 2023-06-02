@@ -14,13 +14,13 @@ Developer(s) will not be responsible for any misuse of the program.
 Clone the project
 
 ```bash
-  git clone https://github.com/saharshpand3y/RandomUser-Ruby.git
+  git clone https://github.com/saharshpand3y/Calm-Gift-Gen.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd RandomUser-Ruby
+  cd Calm-Gift-Gen
 ```
 
 Install dependencies
